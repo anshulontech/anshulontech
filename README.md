@@ -32,8 +32,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul7sh&theme=dark&hide_langs_below=1" />
 </a><br>
 <a href="https://github.com/anshul7sh/Leetcode-Problems">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Leetcode-Problems&theme=dark" />
+  <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Leetcode-Problems&theme=dark" />
 </a>
 <a href="https://github.com/anshul7sh/JavaScript30">
- <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript30&theme=dark" />
+ <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript30&theme=dark" />
 </a>

@@ -13,7 +13,7 @@
 
 ### Hello👋, I'm Anshul
 
-- Pursuing B.Tech. from IIT-DHANBAD 👨🏻‍🎓.</br>
+- Pursuing B.Tech. from **IIT-DHANBAD** 👨🏻‍🎓.</br>
 - Highly interested in👨‍💻 **Competative Programming** and **Web Developemnt**.</br>
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 

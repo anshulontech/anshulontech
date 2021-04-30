@@ -18,9 +18,10 @@
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 
 ### Achievements:
-- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **600+ Questions**</br>
+- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **850+ Questions**</br>
+- 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>
-- Secured decent rank in 35+ Competative Coding Contest.</br>
+- Secured decent rank in 50+ Competative Coding Contest.</br>
 - Selected in **JEE-ADVANCED 2019**.</br>
 
 > **Looking for SDE Internship**.  
@@ -35,6 +36,6 @@
 <a href="https://github.com/anshul7sh/Leetcode-Problems">
   <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Leetcode-Problems&theme=dark" />
 </a>
-<a href="https://github.com/anshul7sh/JavaScript30">
- <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript30&theme=dark" />
+<a href="https://github.com/anshul7sh/JavaScript51">
+ <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript51&theme=dark" />
 </a>

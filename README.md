@@ -18,7 +18,7 @@
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 
 ### Achievements:
-- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **850+ Questions**</br>
+- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **930+ Questions**</br>
 - Competative Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
 - 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>

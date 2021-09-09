@@ -18,7 +18,7 @@
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 
 ### Achievements:
-- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1000+ Questions**</br>
+- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1050+ Questions**</br>
 - Competative Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
 - 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>
@@ -39,4 +39,10 @@
 </a>
 <a href="https://github.com/anshul7sh/JavaScript51">
  <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript51&theme=dark" />
+</a><br>
+<a href="https://github.com/anshul7sh/Mini-Social-Media">
+ <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Mini-Social-Media&theme=dark" />
+</a>
+<a href="https://github.com/anshul7sh/anshul7sh">
+ <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=anshul7sh&theme=dark" />
 </a>

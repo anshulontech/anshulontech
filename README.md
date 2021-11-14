@@ -18,14 +18,15 @@
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 
 ### Achievements:
-- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1050+ Questions**</br>
+- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1100+ Questions**</br>
 - Competative Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
+- Competative Coding | [CodeForces](https://codeforces.com/profile/anshul7sh) - **Expert**</br>
 - 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>
 - Secured decent rank in 50+ Competative Coding Contest.</br>
 - Selected in **JEE-ADVANCED 2019**.</br>
 
-> **Looking for SDE Internship**.  
+> ***Looking for SDE Internship***.  
 
 <br>
 <hr>

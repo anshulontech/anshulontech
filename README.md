@@ -14,16 +14,16 @@
 ### Hello👋, I'm Anshul
 
 - Pursuing B.Tech. from **IIT-DHANBAD** 👨🏻‍🎓.</br>
-- Highly interested in👨‍💻 **Competative Programming** and **Web Developemnt**.</br>
+- Highly interested in👨‍💻 **Competitive Programming** and **Web Developemnt**.</br>
 - Languages:- C++, HTML, CSS, JavaScript.</br>
 
 ### Achievements:
-- Competative Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1150+ Questions**</br>
-- Competative Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
-- Competative Coding | [CodeForces](https://codeforces.com/profile/anshul7sh) - **Expert**</br>
+- Competitive Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1200+ Questions**</br>
+- Competitive Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
+- Competitive Coding | [CodeForces](https://codeforces.com/profile/anshul7sh) - **Expert**</br>
 - 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>
-- Secured decent rank in 50+ Competative Coding Contest.</br>
+- Secured decent rank in 50+ Competitive Coding Contest.</br>
 - Selected in **JEE-ADVANCED 2019**.</br>
 
 > ***Looking for SDE Internship***.  

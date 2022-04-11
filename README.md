@@ -20,7 +20,7 @@
 ### Achievements:
 - Competitive Coding | [Leetcode](https://leetcode.com/anshul7sh/) - **1200+ Questions**</br>
 - Competitive Coding | [CodeChef](https://www.codechef.com/users/anshul7sh) - **4 ⭐**</br>
-- Competitive Coding | [CodeForces](https://codeforces.com/profile/anshul7sh) - **Expert**</br>
+- Competitive Coding | [CodeForces](https://codeforces.com/profile/anshul7sh) - **Expert Rating**</br>
 - 51-Days 51-Project in JavaScript.</br>
 - 30-Days 30-Project in JavaScript.</br>
 - Secured decent rank in 50+ Competitive Coding Contest.</br>

@@ -1,8 +1,8 @@
 <span>
-<a href="https://www.linkedin.com/in/anshul7sh/">
+<a href="https://www.linkedin.com/in/anshulontech/">
   <img align="left" alt="Anshul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/anshul7sh">
+<a href="https://github.com/anshulontech">
   <img align="left" alt="Anshul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100038208783085">
@@ -33,18 +33,18 @@
 <hr>
 <br>  
 
-<a href="https://github.com/anshul7sh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul7sh&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/anshulontech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulontech&theme=dark&hide_langs_below=1" />
 </a><br>
-<a href="https://github.com/anshul7sh/Leetcode-Problems">
-  <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Leetcode-Problems&theme=dark" />
+<a href="https://github.com/anshulontech/Leetcode-Problems">
+  <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulontech&repo=Leetcode-Problems&theme=dark" />
 </a>
-<a href="https://github.com/anshul7sh/JavaScript51">
- <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=JavaScript51&theme=dark" />
+<a href="https://github.com/anshulontech/JavaScript51">
+ <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulontech&repo=JavaScript51&theme=dark" />
 </a><br>
-<a href="https://github.com/anshul7sh/Mini-Social-Media">
- <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=Mini-Social-Media&theme=dark" />
+<a href="https://github.com/anshulontech/Mini-Social-Media">
+ <img align="center" width="350px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulontech&repo=Mini-Social-Media&theme=dark" />
 </a>
-<a href="https://github.com/anshul7sh/anshul7sh">
- <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshul7sh&repo=anshul7sh&theme=dark" />
+<a href="https://github.com/anshulontech/anshulontech">
+ <img align="center" width="400px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulontech&repo=anshulontech&theme=dark" />
 </a>
